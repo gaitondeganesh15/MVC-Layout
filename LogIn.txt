@@ -1,0 +1,29 @@
+@*<div class="panel-heading">
+    <h2>E-Library Management System</h2>
+</div>
+<br /><br />
+
+
+<div class="panel panel-primary">
+    <div class="panel-heading">
+        Login
+    </div>
+        <div class="panel-body">
+            <div class="col-sm-1 col-md-5">
+                <div class="thumbnail">
+                    <br />
+                    @Html.Label("Enter User ID: ")
+                    @Html.TextBox("txtUID")
+                    <br /><br />
+                    @Html.Label("Enter Password: ")
+                    @Html.Password("pwdUser")
+                </div>
+            <br />
+
+            <div class="caption">
+                <button class="btn btn-success">Submit</button>
+                <button class="btn btn-success">Register</button>
+            </div>
+        </div>
+    </div>
+</div>*@
