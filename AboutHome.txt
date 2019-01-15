@@ -1,0 +1,75 @@
+------------------HomePage---------------------------------------
+
+
+<div class="panel panel-body">
+
+    <div class="col-md-3">
+
+        <div class="panel panel-default">
+
+            <div class="panel-heading">
+                <h4>director Message</h4>
+
+            </div>
+            <div class="panel-body">
+                <img src="~/Content/Images/director1.jpg" class="img-responsive" />
+
+                <p>Hello welcome to the technotips mvc</p>
+            </div>
+        </div>
+
+    </div>
+    <div class="col-md-9">
+        <img src="~/Content/Images/website.jpg" class="img-responsive" />
+
+    </div>
+
+</div>
+
+----------------------------Contact Us--------------------------------------------
+
+<div class="well" style="background-color:white;color:wheat;margin-bottom:100px">
+
+        <div class="col-lg-4" style="margin-left:20px"
+
+            <h3><span class="glyphicon glyphicon-map-marker"></span> Address</h3>
+            <ul class="list-group list-unstyled">
+
+                <li>Technotips Ltd.</li>
+                <li>xyz Industrial Area</li>
+                <li>Phase-2,New Delhi-52</li>
+            </ul>
+        </div>
+
+        <div class="col-lg-4">
+
+            <h3><span class="glyphicon glyphicon-cog"></span> Our Services</h3>
+            <ul class="list-group list-unstyled">
+
+                <li><span class="glyphicon glyphicon-music"></span> <a href="#">Musical & Dance Traning</a> </li>
+                <li><span class="glyphicon glyphicon-book"></span>    <a href="#">Training in Asp.Net,Java,android etc.</a></li>
+                <li><span class="glyphicon glyphicon-globe"></span> <a href="#">Web designing -corporate & Domestic</a> </li>
+
+            </ul>
+        </div>
+
+        <div class="col-lg-3">
+
+            <h3><span class="glyphicon glyphicon-briefcase"></span> Career</h3>
+            <ul class="list-group list-unstyled">
+
+                <li><span class="glyphicon glyphicon-music"></span> <a href="#">Musical & Dance</a> </li>
+                <li><span class="glyphicon glyphicon-book"></span>  <a href="#">Summar training</a></li>
+                <li><span class="glyphicon glyphicon-globe"></span>    <a href="#">Website Designing</a></li>
+
+            </ul>
+        </div>
+
+        <div style="clear:both"></div>
+
+
+    </div>
+
+-------------------------------------------------------------------------------------------
+
+http://technotipstutorial.blogspot.com/2017/01/part-24-divide-page-into-several.html
